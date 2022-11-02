@@ -6,6 +6,7 @@ class StatusEnum extends BaseEnum
 {
     public const PENDING = 0;
     public const COMPLETED = 1;
+    public const CANCELED = 2;
 
     public static function getDefault(): int
     {
