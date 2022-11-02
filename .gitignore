@@ -8,3 +8,5 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+/src/Entity/Classes/OrderStatusDTO/Compiled
